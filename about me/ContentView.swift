@@ -17,7 +17,7 @@ struct ContentView: View {
             VStack(alignment: .leading, spacing: 20.0) {
                 
                 Text("About Me!")
-
+//  pratice
                 Image("beachs")
                     .resizable()
                     .aspectRatio(contentMode:.fit)
